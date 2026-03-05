@@ -1,0 +1,15 @@
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>test1</identifier>
+  <sender>test@test.com</sender>
+  <sent>2026-03-05T16:00:00+00:00</sent>
+  <status>Test</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+
+  <info>
+    <event>Test Alert</event>
+    <effective>2026-03-05T16:00:00+00:00</effective>
+    <expires>2026-03-05T16:02:00+00:00</expires>
+    <description>This is a test CAP alert.</description>
+  </info>
+</alert>
