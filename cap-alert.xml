@@ -17,7 +17,7 @@
     <certainty>Observed</certainty>
     <effective>2025-11-14T11:14:00-05:00</effective>
     <onset>2025-11-14T11:14:00-05:00</onset>
-    <expires>2026-03-05T12:36:00+02:00</expires>
+    <expires>2026-03-05T12:40:00+02:00</expires>
     <senderName>PalmBeachAtlanticUniversity</senderName>
     <headline>Event: No emergency! CAP Alert Test. Happy National Egg McMuffin Day.</headline>
     <description>Event: No emergency! CAP Alert Test. Happy National Egg McMuffin Day.</description>
@@ -25,6 +25,7 @@
     <contact>David_Lovell@pba.edu</contact>
   </info>
 </alert>
+
 
 
 
